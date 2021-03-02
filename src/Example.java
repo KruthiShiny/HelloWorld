@@ -13,6 +13,7 @@ public class Example
             Example e=new Example("kruthi",39);
 
             System.out.println(e.name+" "+e.id);
+            
         }
 
 
